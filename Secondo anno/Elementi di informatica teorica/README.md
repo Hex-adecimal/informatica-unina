@@ -25,6 +25,6 @@
 Queste informazioni riguardano il corso tenuto dal professor Tamburrini nell'anno accademico 2021/22. 
 
 Nella cartella appunti sono contenuti gli appunti di:
-- Luigi Starace (2014/2015)
+- Luigi Starace (Tamburrini Guglielmo 2014/2015)
 
 Nella cartella esercizi sono contenuti le prove d'esame, e sono ordinate nel formato aa-mm-gg.
